@@ -1,4 +1,4 @@
-# inGitDB
+#   inGitDB<img src="inGitDB-logo.png" width=75>
 
 Open source versioned db for colloboration that stores data in text files (_json, yaml, columnar storage_).
 
