@@ -1,6 +1,8 @@
-#   inGitDB<img src="inGitDB-logo.png" width=75>
+#   inGitDB
 
 Open source versioned db for colloboration that stores data in text files (_json, yaml, columnar storage_).
+
+<img src="inGitDB-full4.png">
 
 ## Relevant repositories
 - [**demo-ingitdb**](https://github.com/ingitdb/dalgo2ingitdb) - a repository with an example inGitDB (geo data + ToDo).
