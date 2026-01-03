@@ -1,5 +1,7 @@
 # inGitDB 
 
+Website: https://ingitdb.github.io/
+
 Open source versioned db for colloboration that stores data in text files (_json, yaml, columnar storage_). 
 
 Probably the best solution for change-managing reference data.
