@@ -6,6 +6,7 @@ Open source versioned db for colloboration that stores data in text files (_json
 
 ## Relevant repositories
 - [**demo-ingitdb**](https://github.com/ingitdb/dalgo2ingitdb) - a repository with an example inGitDB (geo data + ToDo).
+- [**ingitdb-go**](https://github.com/ingitdb/validator) - Go code for inGitDB schema definition
 - [**ingitdb-validator**](https://github.com/ingitdb/validator) - inGitDB schema & data validator - run locally and in GitHub actions
 - [**dalgo2ingitdb**](https://github.com/ingitdb/dalgo2ingitdb) - a [DALgo](https://github.com/dal-go/dalgo) API adapter for accessing inGitDB from Go programs.
 - [**ingitdb-ts**](https://github.com/ingitdb/ingitdb-ts) - a TypeScript/Javascritp client for web and NodeJS apps.
