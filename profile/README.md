@@ -4,7 +4,7 @@ Open source versioned db for colloboration that stores data in text files (_json
 
 Probably the best solution for change-managing reference data.
 
-<img width="25%" alt="inGitDB" src="../inGitDB-full.png">
+<img alt="inGitDB" src="../inGitDB-full4.png">
 
 ## Relevant repositories
 - [**demo-ingitdb**](https://github.com/ingitdb/dalgo2ingitdb) - a repository with an example inGitDB (geo data + ToDo).
