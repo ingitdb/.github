@@ -1,6 +1,6 @@
 # inGitDB 
 
-Website: https://ingitdb.github.io/
+Website: https://ingitdb.com/
 
 Open source versioned db for colloboration that stores data in text files (_json, yaml, columnar storage_). 
 
