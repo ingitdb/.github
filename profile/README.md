@@ -3,7 +3,7 @@
 Open source versioned db for colloboration that stores data in text files (_json, yaml, columnar storage_). 
 
 - https://ingitdb.com/ - website
-- [**initdb-cli**](https://github.com/ingitdb/initdb-cli) - main repository
+- [**initdb-cli**](https://github.com/ingitdb/ingitdb-cli) - main repository
 
 Probably the best solution for:
 
