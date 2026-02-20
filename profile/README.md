@@ -1,10 +1,13 @@
 # inGitDB 
 
-Website: https://ingitdb.com/
-
 Open source versioned db for colloboration that stores data in text files (_json, yaml, columnar storage_). 
 
-Probably the best solution for change-managing reference data.
+- https://ingitdb.com/ - website
+- [**initdb-cli**](https://github.com/ingitdb/initdb-cli) - main repository
+
+Probably the best solution for:
+
+- change-managing reference data.
 
 <img alt="inGitDB" src="../inGitDB-full4.png">
 
