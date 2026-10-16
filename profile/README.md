@@ -11,6 +11,13 @@ Probably the best solution for:
 
 <img alt="inGitDB" src="../inGitDB-full4.png">
 
+
+## Flagship ecosystem product
+
+DataTug is exploring inGitDB for project definitions and version-controlled content. That integration work is ongoing.
+
+DataTug is the flagship ecosystem product. [Explore DataTug](https://datatug.app), and read [how we built its development tools](https://datatug.app/en/under-the-hood/tools-we-built/) for the open-source tools and standards behind it.
+
 ## Demo Databases
 - [**demo-ingitdb**](https://github.com/ingitdb/demo-ingitdb) - the canonical example inGitDB (_ToDo, countries_).
 - [**geo-ingitdb**](https://github.com/ingitdb/geo-ingitdb) - a demo db with GEO data (countries, states, provinces, counties, cities, towns, etc.)
