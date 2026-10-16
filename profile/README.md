@@ -12,11 +12,9 @@ Probably the best solution for:
 <img alt="inGitDB" src="../inGitDB-full4.png">
 
 
-## Flagship ecosystem product
+## DataTug project-content integration
 
-DataTug is exploring inGitDB for project definitions and version-controlled content. That integration work is ongoing.
-
-DataTug is the flagship ecosystem product. [Explore DataTug](https://datatug.app), and read [how we built its development tools](https://datatug.app/en/under-the-hood/tools-we-built/) for the open-source tools and standards behind it.
+[DataTug](https://datatug.app) is exploring inGitDB for project definitions and version-controlled content; integration work is ongoing. Read [how DataTug’s development tools were built](https://datatug.app/en/under-the-hood/tools-we-built/).
 
 ## Demo Databases
 - [**demo-ingitdb**](https://github.com/ingitdb/demo-ingitdb) - the canonical example inGitDB (_ToDo, countries_).
